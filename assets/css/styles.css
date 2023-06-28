@@ -1,0 +1,76 @@
+#esyinvestinto {
+  font-size: 48px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: capitalize;
+  color: #000;
+}
+
+#mutualfund {
+  font-size: 48px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+  color: #0cbc8b;
+}
+
+.esse {
+  /*width: 522px;*/
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  color: #494949;
+}
+
+.explore_btn {
+  background: #0cbc8b;
+  text-shadow: 0px 0px;
+  border-radius: 25px;
+  font-size: 18px;
+  width: 209px;
+  --bs-primary: #0cbc8b;
+  --bs-primary-rgb: 12,188,139;
+  --bs-body-bg: #0cbc8b;
+  border-color: #0cbc8b;
+  border-right-color: #0cbc8b;
+  color: #ffffff;
+  margin-top: 10vh;
+}
+
+body {
+  height: 100vh;
+}
+
+.main {
+  height: 70vh;
+}
+
+.second_section {
+  height: 80vh;
+}
+
+.multi {
+  width: 244px;
+  height: 253px;
+  /*position: relative;*/
+  /*left: 97.5px;*/
+  /*top: 2291.5px;*/
+  border-radius: 30px;
+  background: #0cbc8b;
+  /*align-items: center;*/
+}
+
+.f-box1 {
+  width: 290px;
+  height: 253px;
+  border-radius: 30px;
+  background: #efefef;
+}
+
+.f-box2 {
+  width: 290px;
+  height: 253px;
+  border-radius: 30px;
+  background: #0CBC8B;
+}
+
